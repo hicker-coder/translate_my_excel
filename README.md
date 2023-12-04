@@ -58,7 +58,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them.
 4. Submit a pull request with a detailed description of your changes.
-
-
-
->>>>>>> 17344a4bfc31ace5a13cab57b4257813a67909e4
