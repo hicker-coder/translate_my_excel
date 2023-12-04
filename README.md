@@ -11,8 +11,7 @@ Infomineo Translator is a Python application built with Streamlit that allows us
   - [Uploading Documents](#uploading-documents)
   - [Translating Text](#translating-text)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Getting Started
 
 ### Prerequisites
