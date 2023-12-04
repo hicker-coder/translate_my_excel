@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# translate_my_document-streamlit
-=======
+
 # Infomineo Document Translator
 
 Infomineo Translator is a Python application built with Streamlit that allows users to upload various types of documents, including PDFs, Word documents, and Excel files. It provides the functionality to translate text within these documents to a selected destination language. For Excel files, it translates the content of individual cells while keeping the original columns intact.
