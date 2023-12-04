@@ -1,5 +1,5 @@
 # constants.py
 
-SUPPORTED_FILE_TYPES = ['pdf', 'docx']
+SUPPORTED_FILE_TYPES = ['xlsx', 'xls']
 MAX_PARAGRAPH_LENGTH = 150
 # Add more constants as needed
